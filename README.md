@@ -6,7 +6,7 @@ Customer Churn prediction using Artificial Neural Network (ANN)
   2. Copy the file path of the dataset(.csv file).
   3. Go to the code. Find the line which is similar to the line given below,
   4.     dataset = pd.read_csv('**drive/MyDrive/Colab Notebooks/ANN/Churn_Modelling.csv**'
-  5. Replace the bold section with the file path in the code)
+  5. Replace the code inside the bracket with the file path in the code)
 
 Churn Prediction is a common use case in Machine Learning and Deep Learning domain.
 It is very important for the bank to know "why" and "when" a customer will leave the bank.
